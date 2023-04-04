@@ -1,0 +1,68 @@
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@1,500&display=swap%27');
+
+@import "./components/container.css";
+@import "./components/Avatar.css";
+@import "./components/button.css";
+@import "./components/banner.css";
+@import "./components/card.css";
+
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	margin: 0px; 
+	color : limegreen;
+}
+
+h1 {
+	color : blue;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+}
+
+h2 {
+	color : white;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	text-shadow: 0 0 4px #000;
+}
+
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	color: black;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	color: limegreen;
+}
+
+li {
+	color: black;
+}
+
+i {
+	color: black;
+}
+
+.footer {
+  background-color: limegreen;
+  padding: 24px;
+  color: blue;
+}
+.footer a {
+  color: blue;
+  font-size: 32px;
+}
+
+.footer p {
+	color: black;
+}
